@@ -4,7 +4,7 @@ import './App.css';
 class App extends Component{
 
   state = {
-    color: ['red', 'blue', 'green']
+    color: ['red', 'blue', 'green', 'black', 'orange']
   }
 
   handleChange=(e)=>{
